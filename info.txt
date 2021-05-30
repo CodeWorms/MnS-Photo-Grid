@@ -1,0 +1,13 @@
+WHAT TO DO : You have to build a grid like the one on the homepage of the MnS website.
+
+
+
+NOTE : All images are there in the imgs folder
+
+NOTE2 : Also round the borders through css
+
+NOTE3 : I have written a line in the CSS. That line prevents images from getting distorted.
+
+
+
+FINAL OUTPUT : mnsthestudio.com
